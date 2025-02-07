@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://note.ianyangchen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://note.ianyangchen.com/" rel="alternate" type="text/html" /><updated>2025-02-07T14:53:06+00:00</updated><id>https://note.ianyangchen.com/feed.xml</id><title type="html">Ian Yang Chen’s Academic Note</title><subtitle>Ian Yang Chen&apos;s Academic Note Here @ London</subtitle><entry><title type="html">Computational Methods in Digital Art History: A Network Analysis Approach</title><link href="https://note.ianyangchen.com/2025/02/07/first-post.html" rel="alternate" type="text/html" title="Computational Methods in Digital Art History: A Network Analysis Approach" /><published>2025-02-07T14:08:25+00:00</published><updated>2025-02-07T14:08:25+00:00</updated><id>https://note.ianyangchen.com/2025/02/07/first-post</id><content type="html" xml:base="https://note.ianyangchen.com/2025/02/07/first-post.html"><![CDATA[<p>The application of computational methods to analyze art history has opened new avenues for understanding artistic evolution and influence networks. This emerging field combines data science with art historical research to reveal patterns and relationships that might be difficult to discern through traditional methods alone.</p>
+
+<p>Recent advances in data visualization have provided powerful tools for mapping complex artistic relationships. Lima’s work on visual complexity has demonstrated how network visualization can reveal hidden patterns in cultural data <a class="citation" href="#lima2017visual">(Lima, 2017)</a>. These visualization techniques, when applied to art historical data, can help us understand the interconnected nature of artistic movements and influences.</p>
+
+<p>The integration of data science into art historical research has fundamentally transformed our analytical capabilities. Manovich’s pioneering work in digital art history showcases how computational methods can reveal patterns across large collections of artworks <a class="citation" href="#manovich2015data">(Manovich, 2015)</a>. This approach enables researchers to analyze vast datasets of digital art, revealing trends and patterns that would be impossible to detect through traditional art historical methods.</p>
+
+<p>One of the most significant developments in this field is the automated discovery of artistic influence. Saleh et al. have developed computational methods to trace and quantify artistic influence across different periods and styles <a class="citation" href="#saleh2016toward">(Saleh et al., 2016)</a>. Their work demonstrates how machine learning algorithms can identify visual similarities and stylistic connections between artworks, providing empirical support for art historical hypotheses.</p>
+
+<p>Building on this foundation, recent research has focused on quantifying creativity in artistic networks. Elgammal and Saleh’s work provides a computational framework for measuring creative innovation in art <a class="citation" href="#elgammal2018quantifying">(Elgammal &amp; Saleh, 2018)</a>. Their approach combines network analysis with visual feature extraction to identify moments of significant artistic innovation and trace their influence through time.</p>
+
+<h2 id="references">References</h2>
+
+<ol class="bibliography"><li><span id="lima2017visual">Lima, M. (2017). Visual complexity: Mapping patterns of information. <i>Princeton Architectural Press</i>. https://doi.org/10.1515/9781400834433</span>
+
+<a href="http://dx.doi.org/10.1515/9781400834433">↗</a>
+
+</li>
+<li><span id="manovich2015data">Manovich, L. (2015). Data science and digital art history. <i>International Journal for Digital Art History</i>, <i>1</i>. https://doi.org/10.11588/dah.2015.1.21631</span>
+
+<a href="http://dx.doi.org/10.11588/dah.2015.1.21631">↗</a>
+
+</li>
+<li><span id="saleh2016toward">Saleh, B., Abe, K., Arora, R. S., &amp; Elgammal, A. (2016). Toward automated discovery of artistic influence. <i>Multimedia Tools and Applications</i>, <i>75</i>(7), 3565–3591. https://doi.org/10.1007/s11042-014-2193-x</span>
+
+<a href="http://dx.doi.org/10.1007/s11042-014-2193-x">↗</a>
+
+</li>
+<li><span id="elgammal2018quantifying">Elgammal, A., &amp; Saleh, B. (2018). Quantifying creativity in art networks. <i>International Conference on Computational Creativity</i>, 17–24. https://doi.org/10.7551/mitpress/11245.003.0003</span>
+
+<a href="http://dx.doi.org/10.7551/mitpress/11245.003.0003">↗</a>
+
+</li></ol>]]></content><author><name></name></author><summary type="html"><![CDATA[The application of computational methods to analyze art history has opened new avenues for understanding artistic evolution and influence networks. This emerging field combines data science with art historical research to reveal patterns and relationships that might be difficult to discern through traditional methods alone.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://note.ianyangchen.com/jekyll/update/2025/02/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-02-07T14:07:25+00:00</published><updated>2025-02-07T14:07:25+00:00</updated><id>https://note.ianyangchen.com/jekyll/update/2025/02/07/welcome-to-jekyll</id><content type="html" xml:base="https://note.ianyangchen.com/jekyll/update/2025/02/07/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
