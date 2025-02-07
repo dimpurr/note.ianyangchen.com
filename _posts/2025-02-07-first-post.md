@@ -1,6 +1,6 @@
 ---
 title: "Computational Methods in Digital Art History: A Network Analysis Approach"
-date: 2024-02-07 14:08:25 +0000
+date: 2025-02-07 14:08:25 +0000
 layout: post
 ---
 
