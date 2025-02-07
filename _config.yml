@@ -37,7 +37,7 @@ scholar:
   style: apa
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: bib
+  bibliography_template: "{{reference}}"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
