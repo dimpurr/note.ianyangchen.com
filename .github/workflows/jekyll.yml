@@ -36,4 +36,6 @@ jobs:
           folder: _site
           branch: gh-pages
           clean: true
+          clean-exclude: |
+            CNAME
           single-commit: true
