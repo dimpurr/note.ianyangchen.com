@@ -37,7 +37,8 @@ scholar:
   style: apa
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: "{{reference}}"
+  bibliography_template: bibliography
+  doi_resolver: "https://doi.org/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
