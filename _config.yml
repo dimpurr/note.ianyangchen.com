@@ -36,12 +36,11 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
 
-
 scholar:
-  style: apa  # APA 引用格式，可换 MLA、IEEE、Chicago 等
+  style: apa
   source: ./_bibliography
   bibliography: references.bib
-
+  bibliography_template: bib
 
 # Exclude from processing.
 # The following items will not be processed, by default.
